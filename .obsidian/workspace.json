@@ -11,14 +11,12 @@
             "id": "ddbcdb26b8c82676",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "General/Assessment Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Module 3/ICT702_WorkshopActivities_Module3.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Assessment Overview"
+              "icon": "lucide-file-text",
+              "title": "ICT702_WorkshopActivities_Module3"
             }
           }
         ]
@@ -194,14 +192,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c30f906ff5285c1c",
+  "active": "ddbcdb26b8c82676",
   "lastOpenFiles": [
+    "Module 3/2303 1.pdf",
+    "Module 3/ICT702_WorkshopActivities_Module3.pdf",
+    "Module 3/2303.pdf",
+    "General/Assessment Overview.md",
+    "Module 3/2022-world-air-quality-report.pdf",
+    "Module 3",
+    "Zoo.xlsx",
     "General/Screenshots",
     "General",
     "Task 3",
     "Task 2",
     "Task 1",
-    "General/Screenshots/Pasted image 20260723101122.png",
-    "General/Assessment Overview.md"
+    "General/Screenshots/Pasted image 20260723101122.png"
   ]
 }
