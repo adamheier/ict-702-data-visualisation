@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png"
+                "file": "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png"
               },
               "icon": "lucide-image",
               "title": "Screenshot 2026-08-19 at 15.21.39"
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Requirements.md",
+                "file": "task_2/Requirements.md",
                 "mode": "source",
                 "source": false
               },
@@ -211,30 +211,30 @@
   },
   "active": "c30f906ff5285c1c",
   "lastOpenFiles": [
-    "Module 5/5.2 Colour schemes and types of data_ Data Visualisation.pdf",
-    "Module 5/ICT702_Purposeful Use of Colour_Part1.pdf",
-    "Module 5/ICT702_Purposeful Use of Colour_Part2.pdf",
-    "Module 5/ICT702_Purposeful Use of Colour_Part3.pdf",
-    "Task 2/Task 2 submission.pdf",
-    "Task 2/ICT702_Task2_Tri2_2026.pdf",
-    "Requirements.md",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
-    "Module 4/4.3 Gestalt principles_ Data Visualisation.pdf",
-    "Module 3/3.4 Summary guide to chart selection_ Data Visualisation.pdf",
-    "Module 3/3.3 Creating and editing charts in MS Excel_ Data Visualisation.pdf",
-    "Module 3/3.2 Defining the goal of your data visualisation_ Data Visualisation.pdf",
-    "Module 2/2.4 Types of data_ Data Visualisation.pdf",
-    "General/Assessment Overview.md",
-    "General/Screenshots/Pasted image 20260723101122.png",
-    "Task 1/Gmetrix/Screenshot 2026-08-19 at 00.55.50.png",
-    "Task 1/Gmetrix/Screenshot 2026-08-19 at 01.05.33.png",
-    "Task 1/Practice Assessment PL-900/PL-900 Practice Assessment - Fragen und Lösungen.md",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 18.21.45.png",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.41.40.png",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.39.14.png",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.35.24.png",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 18.21.17.png",
-    "Task 1/Practice Assessment PL-900/Screenshot 2026-08-19 at 18.20.02.png",
+    "module_5/5.2 Colour schemes and types of data_ Data Visualisation.pdf",
+    "module_5/ICT702_Purposeful Use of Colour_Part1.pdf",
+    "module_5/ICT702_Purposeful Use of Colour_Part2.pdf",
+    "module_5/ICT702_Purposeful Use of Colour_Part3.pdf",
+    "task_2/Task 2 submission.pdf",
+    "task_2/ICT702_Task2_Tri2_2026.pdf",
+    "task_2/Requirements.md",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
+    "module_4/4.3 Gestalt principles_ Data Visualisation.pdf",
+    "module_3/3.4 Summary guide to chart selection_ Data Visualisation.pdf",
+    "module_3/3.3 Creating and editing charts in MS Excel_ Data Visualisation.pdf",
+    "module_3/3.2 Defining the goal of your data visualisation_ Data Visualisation.pdf",
+    "module_2/2.4 Types of data_ Data Visualisation.pdf",
+    "general/Assessment Overview.md",
+    "general/Screenshots/Pasted image 20260723101122.png",
+    "task_1/Gmetrix/Screenshot 2026-08-19 at 00.55.50.png",
+    "task_1/Gmetrix/Screenshot 2026-08-19 at 01.05.33.png",
+    "task_1/Practice Assessment PL-900/PL-900 Practice Assessment - Fragen und Lösungen.md",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 18.21.45.png",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.41.40.png",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.39.14.png",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.35.24.png",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 18.21.17.png",
+    "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 18.20.02.png",
     "Gmetrix/Domain 2/Fill in the blanks.md"
   ]
 }
