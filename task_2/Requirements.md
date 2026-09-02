@@ -2,3 +2,5 @@
 - use of color
 - pre attentive attributes
 - minimum 6 visualisations
+- blue and orange for color blind people
+- 
