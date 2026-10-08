@@ -1,0 +1,3 @@
+- im Workshop einloggen mit PW
+- Paper based notes (auch ausgedruckt)
+- 
