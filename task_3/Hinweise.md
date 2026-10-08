@@ -13,4 +13,6 @@
 - alles von 2-11 (redo the activities questions will be similar)
 	- bspw. Activity 1 or 2 in module 10 
 	- create a scatterchart and trendline
-	- 
+
+
+selection, survivor (brilliance bias) and simpsons paradox (confirmation bias)

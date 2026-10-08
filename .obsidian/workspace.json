@@ -13,10 +13,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "module_2/ICT702_Introducing Data Visualisation_Part1.pdf"
+                "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ICT702_Introducing Data Visualisation_Part1"
+              "title": "ICT702_WorkshopActivities_Module10"
             }
           },
           {
@@ -35,16 +35,17 @@
             "id": "78989ddacc45397e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
+                "file": "task_3/Hinweise.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ICT702_WorkshopActivities_Module10"
+              "icon": "lucide-file",
+              "title": "Hinweise"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78989ddacc45397e",
+  "active": "b408895eb3e6c987",
   "lastOpenFiles": [
-    "module_6/6.2 Creating distributions from data_ Data Visualisation.pdf",
+    "module_2/ICT702_Introducing Data Visualisation_Part1.pdf",
+    "task_3/Hinweise.md",
     "module_10/ICT702_WorkshopActivities_Module10.pdf",
+    "task_3/Task 3 Examination_ Data Visualisation.pdf",
+    "module_6/6.2 Creating distributions from data_ Data Visualisation.pdf",
     "module_6/ICT702_Visualising Variability_Part2.pdf",
     "module_5/5.4 Common mistakes in the use of colour in data visualisations_ Data Visualisation.pdf",
     "module_5/ICT702_Purposeful Use of Colour_Part1.pdf",
@@ -230,9 +234,6 @@
     "module_6/ICT702_Visualising Variability_Part1.pdf",
     "module_6/ICT702_Visualising Variability_Part3.pdf",
     "module_6/ICT702_WorkshopActivities_Module6.pdf",
-    "module_2/ICT702_Introducing Data Visualisation_Part1.pdf",
-    "module_2/ICT702_Introducing Data Visualisation_Part2.pdf",
-    "task_3/Hinweise.md",
     "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
     "task_2/requirements&task/Requirements.md",
     "task_2/Data_Sources_and_Findings_v2.md",
