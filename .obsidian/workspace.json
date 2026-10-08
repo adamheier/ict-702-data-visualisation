@@ -37,10 +37,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "module_6/ICT702_Visualising Variability_Part2.pdf"
+                "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ICT702_Visualising Variability_Part2"
+              "title": "ICT702_WorkshopActivities_Module10"
             }
           }
         ],
@@ -219,19 +219,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c30f906ff5285c1c",
+  "active": "78989ddacc45397e",
   "lastOpenFiles": [
-    "5.4 Common mistakes in the use of colour in data visualisations_ Data Visualisation.pdf",
+    "module_6/6.2 Creating distributions from data_ Data Visualisation.pdf",
+    "module_10/ICT702_WorkshopActivities_Module10.pdf",
+    "module_6/ICT702_Visualising Variability_Part2.pdf",
+    "module_5/5.4 Common mistakes in the use of colour in data visualisations_ Data Visualisation.pdf",
     "module_5/ICT702_Purposeful Use of Colour_Part1.pdf",
     "module_7/ICT702_WorkshopActivities_Module7.pdf",
-    "module_6/ICT702_Visualising Variability_Part2.pdf",
     "module_6/ICT702_Visualising Variability_Part1.pdf",
     "module_6/ICT702_Visualising Variability_Part3.pdf",
     "module_6/ICT702_WorkshopActivities_Module6.pdf",
-    "6.2 Creating distributions from data_ Data Visualisation.pdf",
     "module_2/ICT702_Introducing Data Visualisation_Part1.pdf",
     "module_2/ICT702_Introducing Data Visualisation_Part2.pdf",
-    "module_3/ICT702_Selecting a Chart Type_Part2.pdf",
     "task_3/Hinweise.md",
     "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
     "task_2/requirements&task/Requirements.md",
