@@ -13,6 +13,18 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "module_8/8.1 Know your audience_ Data Visualisation.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "8.1 Know your audience_ Data Visualisation"
+            }
+          },
+          {
+            "id": "665af52d635bda4d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
               },
               "icon": "lucide-file-text",
@@ -45,7 +57,8 @@
               "title": "Hinweise"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,20 +233,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b408895eb3e6c987",
+  "active": "665af52d635bda4d",
   "lastOpenFiles": [
-    "module_2/ICT702_Introducing Data Visualisation_Part1.pdf",
+    "module_10/GuaraldiConsultants_claude.xlsx",
+    "module_10/~$Module 10.xlsx",
+    "module_10/~$GuaraldiConsultants.xlsx",
+    "module_10/Module 10.xlsx",
+    "module_10/~$GuaraldiConsultants_Activity3a.xlsx",
+    "task_3/Topic_ IMPORTANT INFORMATION about TASK 3.pdf",
     "task_3/Hinweise.md",
-    "module_10/ICT702_WorkshopActivities_Module10.pdf",
     "task_3/Task 3 Examination_ Data Visualisation.pdf",
-    "module_6/6.2 Creating distributions from data_ Data Visualisation.pdf",
-    "module_6/ICT702_Visualising Variability_Part2.pdf",
-    "module_5/5.4 Common mistakes in the use of colour in data visualisations_ Data Visualisation.pdf",
-    "module_5/ICT702_Purposeful Use of Colour_Part1.pdf",
-    "module_7/ICT702_WorkshopActivities_Module7.pdf",
-    "module_6/ICT702_Visualising Variability_Part1.pdf",
-    "module_6/ICT702_Visualising Variability_Part3.pdf",
-    "module_6/ICT702_WorkshopActivities_Module6.pdf",
+    "module_10/10.3 Adjusting for inflation_ Data Visualisation.pdf",
+    "module_9/9.1 What is a data dashboard__ Data Visualisation.pdf",
+    "module_8/8.1 Know your audience_ Data Visualisation.pdf",
+    "module_8/8.2 Know your message_ Data Visualisation.pdf",
     "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
     "task_2/requirements&task/Requirements.md",
     "task_2/Data_Sources_and_Findings_v2.md",
