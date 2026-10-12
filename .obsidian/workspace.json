@@ -25,10 +25,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
+                "file": "ICT702_Zusammenfassung_detailliert.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ICT702_WorkshopActivities_Module10"
+              "title": "ICT702_Zusammenfassung_detailliert"
             }
           },
           {
@@ -233,20 +233,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "792961ffe0ebddf2",
+  "active": "665af52d635bda4d",
   "lastOpenFiles": [
+    "task_3/ICT702_Zusammenfassung_detailliert.md",
+    "ICT702_Zusammenfassung_detailliert.pdf",
+    "ICT702_Cheat_Sheet_Pruefung.pdf",
+    "task_3/ICT702_Cheat_Sheet_Pruefung.md",
+    "task_3/Hinweise.md",
+    "module_9/ICT702_Data Dashboards_Part2.pdf",
+    "task_3/Task 3 Examination_ Data Visualisation.pdf",
+    "task_3/Topic_ IMPORTANT INFORMATION about TASK 3.pdf",
+    "module_10/ICT702_WorkshopActivities_Module10.pdf",
     "module_10/~$Module 10.xlsx",
     "module_10/GuaraldiConsultants_claude.xlsx",
     "module_10/~$GuaraldiConsultants.xlsx",
     "module_10/Module 10.xlsx",
-    "module_10/~$GuaraldiConsultants_Activity3a.xlsx",
-    "task_3/Topic_ IMPORTANT INFORMATION about TASK 3.pdf",
-    "task_3/Hinweise.md",
-    "task_3/Task 3 Examination_ Data Visualisation.pdf",
-    "module_10/10.3 Adjusting for inflation_ Data Visualisation.pdf",
-    "module_9/9.1 What is a data dashboard__ Data Visualisation.pdf",
-    "module_8/8.1 Know your audience_ Data Visualisation.pdf",
-    "module_8/8.2 Know your message_ Data Visualisation.pdf",
     "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
     "task_2/requirements&task/Requirements.md",
     "task_2/Data_Sources_and_Findings_v2.md",
