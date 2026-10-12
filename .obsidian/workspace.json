@@ -23,12 +23,14 @@
             "id": "665af52d635bda4d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ICT702_Zusammenfassung_detailliert.pdf"
+                "file": "task_3/ICT702_Summary_detailed_EN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "ICT702_Zusammenfassung_detailliert"
+              "icon": "lucide-file",
+              "title": "ICT702_Summary_detailed_EN"
             }
           },
           {
@@ -235,10 +237,13 @@
   },
   "active": "665af52d635bda4d",
   "lastOpenFiles": [
+    "ICT702_Summary_detailed_EN.pdf",
+    "task_3/ICT702_Cheat_Sheet_Exam_EN.md",
+    "task_3/ICT702_Cheat_Sheet_Pruefung.md",
     "task_3/ICT702_Zusammenfassung_detailliert.md",
     "ICT702_Zusammenfassung_detailliert.pdf",
+    "task_3/ICT702_Summary_detailed_EN.md",
     "ICT702_Cheat_Sheet_Pruefung.pdf",
-    "task_3/ICT702_Cheat_Sheet_Pruefung.md",
     "task_3/Hinweise.md",
     "module_9/ICT702_Data Dashboards_Part2.pdf",
     "task_3/Task 3 Examination_ Data Visualisation.pdf",
