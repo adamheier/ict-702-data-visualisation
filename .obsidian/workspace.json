@@ -25,10 +25,34 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "module_5/ICT702_Purposeful Use of Colour_Part1.pdf"
+                "file": "module_9/ICT702_WorkshopActivities_Module9.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ICT702_Purposeful Use of Colour_Part1"
+              "title": "ICT702_WorkshopActivities_Module9"
+            }
+          },
+          {
+            "id": "96fbe55cbeff28df",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ICT702_WorkshopActivities_Module10"
+            }
+          },
+          {
+            "id": "52f47f8bc62ebc60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "module_10/ICT702_WorkshopActivities_Module10.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ICT702_WorkshopActivities_Module10"
             }
           },
           {
@@ -221,24 +245,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "792961ffe0ebddf2",
+  "active": "1930b8b42224b302",
   "lastOpenFiles": [
-    "ICT702_Summary_detailed_EN.pdf",
-    "ICT702_Cheat_Sheet_Pruefung.pdf",
-    "task_3/PDF/ICT702_Summary_detailed_EN.pdf",
+    "module_9/EJBChart1_Kopie_Claude.xlsx.tmp",
     "task_3/PDF/ICT702_Cheat_Sheet_Pruefung.pdf",
-    "task_3/PDF/ICT702_Cheat_Sheet_Exam_EN.pdf",
-    "task_3/PDF/ICT702_Zusammenfassung_detailliert.pdf",
-    "task_3/PDF",
-    "ICT702_Zusammenfassung_detailliert.pdf",
+    "module_10/ICT702_WorkshopActivities_Module10.pdf",
+    "module_10/~$Module 10.xlsx",
+    "module_9/ICT702_WorkshopActivities_Module9.pdf",
+    "module_9/~$EJBChart1.xlsx",
+    "module_9/~$EJBChart1_Kopie_Claude.xlsx",
+    "module_9/EJBChart1_Kopie_Claude.xlsx",
+    "module_9/EJBChart1.xlsx",
+    "task_3/PDF/ICT702_Summary_detailed_EN.pdf",
+    "task_3/Hinweise.md",
+    "module_5/ICT702_WorkshopActivities_Module5.pdf",
     "task_3/ICT702_Summary_detailed_EN.md",
     "task_3/ICT702_Cheat_Sheet_Exam_EN.md",
     "task_3/ICT702_Cheat_Sheet_Pruefung.md",
     "task_3/ICT702_Zusammenfassung_detailliert.md",
-    "task_3/Hinweise.md",
-    "module_9/ICT702_Data Dashboards_Part2.pdf",
-    "task_3/Task 3 Examination_ Data Visualisation.pdf",
-    "task_3/Topic_ IMPORTANT INFORMATION about TASK 3.pdf",
     "task_1/Practice Assessment PL-900/Screenshot 2026-08-19 at 15.21.39.png",
     "task_2/requirements&task/Requirements.md",
     "task_2/Data_Sources_and_Findings_v2.md",

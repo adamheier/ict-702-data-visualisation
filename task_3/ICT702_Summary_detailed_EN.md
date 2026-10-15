@@ -490,7 +490,7 @@ Three things to define:
 | **Median** | middle value of sorted data (even n: average of the two middle values) | `MEDIAN` | robust, **preferred for skewed data** |
 | **Mode** | most frequent value (can be several/none) | `MODE.SNGL` / `MODE.MULT` | useful with few distinct values; in a histogram = tallest column |
 | **Range** | max − min | `MAX` − `MIN` | uses only 2 values, sensitive to extremes |
-| **Standard deviation** | average deviation from the mean | `STDEV.S` | reliable for symmetric/bell-shaped data; **not** for skewed data |
+| **Standard deviation (SD)** | average deviation from the mean | `STDEV.S` | reliable for symmetric/bell-shaped data; **not** for skewed data |
 | **Percentile (p-th)** | value exceeding p % of observations | `PERCENTILE.EXC` | robust |
 | **Quartiles** | Q1 = 25th · Q2 = 50th (= median) · Q3 = 75th percentile | `QUARTILE.EXC` | split data into 4 parts |
 | **IQR** | **Q3 − Q1** (middle 50 %) | – | robust, no bell shape needed |

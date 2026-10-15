@@ -105,7 +105,7 @@
 - Relative freq. = f/n · Percent = ×100 (≈ Wahrscheinlichkeitsverteilung) · kategorial sortieren, **ordinal nicht**
 - **Histogram:** 5–20 Bins, gleiche Breite ≈ (Max − Min)/Bins, alle Werte genau 1 Bin; **(17, 25]** = 17 nicht drin, 25 drin
 - **Skew:** left = Schwanz links, **Mean < Median** (Sterbealter, leichte Prüfung) · right = **Mean > Median** (Hauspreise, Einkommen) · symmetric (Körpergröße)
-- **Mean** (`AVERAGE`, ausreißeranfällig) · **Median** (`MEDIAN`, bei Schiefe besser) · **Mode** (`MODE.SNGL/MULT`) · **Range** (Max − Min) · **SD** (`STDEV.S`, nur bei symmetrisch) · **Percentile** (`PERCENTILE.EXC`) · **Q1/Q2/Q3** · **IQR = Q3 − Q1**
+- **Mean** (`AVERAGE`, ausreißeranfällig) · **Median** (`MEDIAN`, bei Schiefe besser) · **Mode** (`MODE.SNGL/MULT`) · **Range** (Max − Min) · **SD = Standard Deviation (Standardabweichung)** (`STDEV.S`, nur bei symmetrisch) · **Percentile** (`PERCENTILE.EXC`) · **Q1/Q2/Q3** · **IQR = Q3 − Q1**
 - **Empirical rule:** 68 / 95 / 99,7 % in ±1/2/3 SD
 - **Box plot:** Box Q1–Q3, Linie = Median, X = Mean, **Outlier < Q1 − 1,5·IQR oder > Q3 + 1,5·IQR**
 - **Frequency polygon** (Linien statt Säulen, Vergleich) · **Trellis** (gleiche Skalen) · **Strip chart** (Einzelwerte) → **Occlusion** → hohle Marker + **Jitter** `=C2+RAND()` · **Violin** = Box + Density

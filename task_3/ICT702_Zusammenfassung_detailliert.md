@@ -490,7 +490,7 @@ Drei Festlegungen:
 | **Median** | mittlerer Wert der sortierten Daten (bei geradem n: Mittel der zwei mittleren) | `MEDIAN` | robust, **bei Schiefe bevorzugen** |
 | **Mode** | häufigster Wert (kann mehrere/keinen geben) | `MODE.SNGL` / `MODE.MULT` | bei wenigen diskreten Werten nützlich; im Histogram = höchste Säule |
 | **Range** | Max − Min | `MAX` − `MIN` | nur 2 Werte, anfällig für Extreme |
-| **Standard deviation** | durchschnittliche Abweichung vom Mean | `STDEV.S` | zuverlässig bei symmetrischen/glockenförmigen Daten; **nicht** bei Schiefe |
+| **Standard deviation (SD)** = Standardabweichung | durchschnittliche Abweichung vom Mean | `STDEV.S` | zuverlässig bei symmetrischen/glockenförmigen Daten; **nicht** bei Schiefe |
 | **Percentile (p-th)** | Wert, der p % der Beobachtungen übersteigt | `PERCENTILE.EXC` | robust |
 | **Quartiles** | Q1 = 25. · Q2 = 50. (= Median) · Q3 = 75. Perzentil | `QUARTILE.EXC` | teilen Daten in 4 Teile |
 | **IQR** | **Q3 − Q1** (mittlere 50 %) | – | robust, keine Glockenform nötig |

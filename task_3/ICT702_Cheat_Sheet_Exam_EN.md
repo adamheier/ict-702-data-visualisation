@@ -105,7 +105,7 @@
 - Relative freq. = f/n · percent = ×100 (≈ probability distribution) · sort categorical, **not ordinal**
 - **Histogram:** 5–20 bins, equal width ≈ (max − min)/bins, every value in exactly 1 bin; **(17, 25]** = 17 excluded, 25 included
 - **Skew:** left = tail left, **mean < median** (age at death, easy exam) · right = **mean > median** (house prices, income) · symmetric (height)
-- **Mean** (`AVERAGE`, outlier-sensitive) · **median** (`MEDIAN`, better for skew) · **mode** (`MODE.SNGL/MULT`) · **range** (max − min) · **SD** (`STDEV.S`, symmetric only) · **percentile** (`PERCENTILE.EXC`) · **Q1/Q2/Q3** · **IQR = Q3 − Q1**
+- **Mean** (`AVERAGE`, outlier-sensitive) · **median** (`MEDIAN`, better for skew) · **mode** (`MODE.SNGL/MULT`) · **range** (max − min) · **SD = standard deviation** (`STDEV.S`, symmetric only) · **percentile** (`PERCENTILE.EXC`) · **Q1/Q2/Q3** · **IQR = Q3 − Q1**
 - **Empirical rule:** 68 / 95 / 99.7 % within ±1/2/3 SD
 - **Box plot:** box Q1–Q3, line = median, X = mean, **outlier < Q1 − 1.5·IQR or > Q3 + 1.5·IQR**
 - **Frequency polygon** (lines instead of columns, comparison) · **trellis** (same scales) · **strip chart** (individual values) → **occlusion** → hollow markers + **jitter** `=C2+RAND()` · **violin** = box + density
